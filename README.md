@@ -1,4 +1,4 @@
 # First install dependencies
 ## npm i
-#Second 
+# Second 
 ## npm run dev
